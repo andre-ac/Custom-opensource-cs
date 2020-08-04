@@ -19,7 +19,7 @@ Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 ##  Core programming
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--: 
-[[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | U. British Columbia |7 weeks | 8-10 hours/week | none | edX |
+[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | U. British Columbia |7 weeks | 8-10 hours/week | none | edX |
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | U. British Columbia | 6 weeks | 8-10 hours/week | How to Code: Simple Data | edX |
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | U. Washington | 5 weeks | 4-8 hours/week | Basic programming knowledge | Coursera
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | U. Washington | 3 weeks | 4-8 hours/week | Programming Languages, Part A | Coursera
