@@ -49,6 +49,8 @@ Courses | School | Duration | Effort |  Prerequisites | Platform | Status |
 ## Core Applications
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status | 
 :-- | :--: | :--: | :--: | :--: | :--: | :--: 
+[CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| Harvard |  12 weeks | 6-9 hours/week | CS50 | edX
+[CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)| Harvard |  7 weeks | 10-30 hours/week | CS50 | edX
 [Relational Database Systems](https://www.coursera.org/learn/relational-database)| Universidade Nacional Autônoma do México|  6 weeks | 3 hours/week | - | Coursera
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| Stanford | 11 weeks | 4-6 hours/week | linear algebra | Coursera
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| UC SanDiego | 6 weeks | 12 hours/week | C++ or Java, linear algebra | edX
@@ -59,6 +61,6 @@ Courses | School | Duration | Effort |  Prerequisites | Platform | Status |
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status | 
 :-- | :--: | :--: | :--: | :--: | :--: | :--: 
 [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | University of London | 5 weeks | 3 hours/week | - | Coursera
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| University of California | 4 weeks | 4 hours/week | - |
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | University of California | 4 weeks | 4 hours/week | - |
-[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | University of California | 4 weeks | 5 hours/week | - |
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| University of California | 4 weeks | 4 hours/week | - | Coursera
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | University of California | 4 weeks | 4 hours/week | - | Coursera
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | University of California | 4 weeks | 5 hours/week | - | Coursera
