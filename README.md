@@ -9,7 +9,7 @@ Currently missing: Networking
 ## Computer Science Basics
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--: 
-[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | none | edX | Finished :white_check_mark:
+[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | none | edX | FINISHED :white_check_mark:
 
 ## Core Others
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status
@@ -19,7 +19,7 @@ Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 ##  Core programming
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--: 
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | U. British Columbia |7 weeks | 8-10 hours/week | none | edX |
+[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | U. British Columbia |7 weeks | 8-10 hours/week | none | edX | ENROLLED :eyes:
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | U. British Columbia | 6 weeks | 8-10 hours/week | How to Code: Simple Data | edX |
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | U. Washington | 5 weeks | 4-8 hours/week | Basic programming knowledge | Coursera
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | U. Washington | 3 weeks | 4-8 hours/week | Programming Languages, Part A | Coursera
@@ -28,7 +28,7 @@ Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 ##  Core  Math
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status | 
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | MIT | 13 weeks | 5 hours/week | Calculus 1C | MIT Opencourseware
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | MIT | 13 weeks | 5 hours/week | Calculus 1C | MIT Opencourseware | ENROLLED :eyes:
 [Introduction to Probability](https://www.edx.org/course/introduction-to-probability) | Harvard | 16 weeks | 5-10 hours/week | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | edX |
 
 ## Core systems
