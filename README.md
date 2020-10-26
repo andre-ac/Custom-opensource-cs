@@ -31,7 +31,7 @@ Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status | 
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | MIT | 13 weeks | 5 hours/week | Calculus 1C | MIT Opencourseware | ENROLLED :eyes:
-[Introduction to Probability](https://www.edx.org/course/introduction-to-probability) | Harvard | 16 weeks | 5-10 hours/week | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | edX |
+[6.00.2x Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | MIT | 9 weeks | 14-16 hours/week | Python + knowledge of computational complexity | edX | ENROLLED :eyes:
 
 ## Core systems
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status | 
