@@ -15,8 +15,8 @@ Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--: 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | 12 hours/week | - | MIT website
-[Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | - | none
-[The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | - | none
+[Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | - | Udacity | FINISHED :white_check_mark:
+[The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | - | Coursera 
 
 ##  Core programming
 Courses | School | Duration | Effort |  Prerequisites | Platform | Status
